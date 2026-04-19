@@ -94,7 +94,12 @@ No accounts, no forced cloud usage, no unnecessary complexity.
 ---
 
 ## Installation
-[Download & Install here](ttps://snapkeep.webytes.net)
+[Download & Install here](https://snapkeep.webytes.net)
+
+---
+
+## Download
+[Download on the Mac App Store](https://example.com)
 
 ---
 
