@@ -94,7 +94,7 @@ No accounts, no forced cloud usage, no unnecessary complexity.
 ---
 
 ## Installation
-[Download & Install here](ttps://snapkeep.webytes.net/)
+[Download & Install here](ttps://snapkeep.webytes.net)
 
 ---
 
